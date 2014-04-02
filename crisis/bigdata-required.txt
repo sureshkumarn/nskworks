@@ -1,0 +1,15 @@
+Location level information on :
+Population
+	family
+	School
+	Traffic
+Temperature
+Deforestation
+Water consumption
+	Bore wells
+Food consumption
+
+
+glossary :
+1. call detail records
+2. 
